@@ -1,0 +1,1 @@
+export const msg = 'This is a root level file';
